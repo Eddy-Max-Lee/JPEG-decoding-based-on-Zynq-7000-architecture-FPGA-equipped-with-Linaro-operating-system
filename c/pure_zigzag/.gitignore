@@ -1,0 +1,8 @@
+!.gitignore
+*.o
+*.a
+*.exe
+*.bmp
+*.jpg
+/src/ffjpeg
+

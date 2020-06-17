@@ -1,0 +1,9 @@
+E:\EddyRepo\Frame2\obj\Debug\Frame2.csprojAssemblyReference.cache
+E:\EddyRepo\Frame2\obj\Debug\Frame2.Form1.resources
+E:\EddyRepo\Frame2\obj\Debug\Frame2.Properties.Resources.resources
+E:\EddyRepo\Frame2\obj\Debug\Frame2.csproj.GenerateResource.cache
+E:\EddyRepo\Frame2\bin\Debug\Frame2.exe.config
+E:\EddyRepo\Frame2\bin\Debug\Frame2.exe
+E:\EddyRepo\Frame2\bin\Debug\Frame2.pdb
+E:\EddyRepo\Frame2\obj\Debug\Frame2.exe
+E:\EddyRepo\Frame2\obj\Debug\Frame2.pdb
